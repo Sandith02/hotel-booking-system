@@ -1,4 +1,3 @@
-// tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -18,10 +17,6 @@ export default {
           DEFAULT: '#ff3333',
           dark: '#e60000',
         },
-      },
-      fontFamily: {
-        sans: ['Poppins', 'sans-serif'],
-        serif: ['Merriweather', 'serif'],
       },
     },
   },
