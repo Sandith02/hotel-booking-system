@@ -1,0 +1,31 @@
+{
+  "name": "hotel-booking-system",
+  "version": "1.0.0",
+  "description": "## Project Overview This document outlines the architecture for a full-featured hotel booking platform using the MERN stack (MongoDB, Express.js, React.js, Node.js). The system is designed to be template-based, allowing for easy customization for different hotel clients while maintaining a robust set of core features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandith02/hotel-booking-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandith02/hotel-booking-system/issues"
+  },
+  "homepage": "https://github.com/Sandith02/hotel-booking-system#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
